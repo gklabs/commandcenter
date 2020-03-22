@@ -26,5 +26,6 @@ Using your mobile phone's camera, take pictures/ videos of your house when it is
 Suppose you take a picture of your table, a pretrained model can identify objects that are present. You decide whether the object present in the picture is 
 * inplace
 * outofplace
+
 Suppose it is in place, you add a component to the 'cleanliness' of your room; else the object is identified to be put in its place.
 
