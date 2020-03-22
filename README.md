@@ -7,7 +7,10 @@ The idea is to look at this at any point in time and  get a snapshot of your lif
 
 ## How are you ?
 	Physically
+		Body Temperature
+		Body Weight
 	Mentally
+		DSM 5 measures
 ## How is everything ?
 	Your home
 		Is everything in its place ?
