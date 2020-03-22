@@ -15,3 +15,5 @@ The idea is to look at this at any point in time and  get a snapshot of your lif
 			Medication
 			Fees
 	Your Groceries supply
+
+Open [commandcenter.py](https://github.com/gklabs/commandcenter/blob/master/commandcenter.py)commandcenter.py to take a look at the proposed functionality.
