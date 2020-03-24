@@ -1,4 +1,4 @@
-# Commandcenter
+# focuscenter
 *hmu @gkbytes on twitter if you want to collaborate or suggest features.*
 
 The idea is to look at this at any point in time and  get a snapshot of your life situation and answer two questions.  
