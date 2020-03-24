@@ -7,10 +7,17 @@ The idea is to look at this at any point in time and  get a snapshot of your lif
 
 ## How are you ?
 	Physically
-		Body Temperature
-		Body Weight
+		* Body Temperature
+		* Body Weight
+		* Heart rate
+		* Eye strain
+		* Water intake
+		* Calorie intake
+		* Medication intake
 	Mentally
-		DSM 5 captures a 
+		* To start with, I propose to understand mental health of the user by periodic assessments and prompts.
+		* DSM 5 has various resources that include self-rated assessments. The cross-cutting symptom measure assessment for adults has 23 prompts scored on a 5 point scale. Based on this, a prompt to indicate that the user might need to seek help from a mental health practitioner and/or point them to resources to seek help.
+		
 ## How is everything ?
 	Your home
 		Is everything in its place ?
