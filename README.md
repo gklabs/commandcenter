@@ -54,3 +54,8 @@ For the purpose of commandcenter,
 
 ## Integration with Voice assistants
 With ever increasing presence of voice assistants in people's homes, integrating commandcenter with _alexa_ or _google home assistant_ is but logical. With real time data on the user's supplies (toilet paper, groceries etc.) commandcenter can recommend or remind if an essential item is running out or if it is due for renewal. Voice assistants can integrate other smart home devices like lighting, outdoor water fountains, security cameras etc. 
+
+## Definitions
+* *Object* : An atomic unit in focuscenter
+* *Characteristic* : A feature of an object.
+* *Type* : A classification of an object.
