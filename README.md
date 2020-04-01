@@ -59,3 +59,9 @@ With ever increasing presence of voice assistants in people's homes, integrating
 * *Object* : An atomic unit in focuscenter
 * *Characteristic* : A feature of an object.
 * *Type* : A classification of an object.
+
+## Login and questionnaire
+focuscenter should have a login screen (integrated with google) to create a user. The user is then asked to complete a questionnaire based of which an initial dashboard is created. 
+
+# Creating a virtual home with rooms and objects
+The user is then asked to set up a home and create rooms, with objects and add characteristics for objects. The adding for objects should have a _search feature_ where the search can recommend objects that may be present in a room.
